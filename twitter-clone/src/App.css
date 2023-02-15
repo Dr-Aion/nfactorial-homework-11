@@ -1,0 +1,8 @@
+.App {
+  font-family: 'Roboto', sans-serif;
+}
+.vertical-devider {
+  width: 2px;
+  height: auto;
+  background-color: whitesmoke;
+}
